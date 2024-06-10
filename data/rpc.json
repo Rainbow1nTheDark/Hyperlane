@@ -1,0 +1,83 @@
+{
+    "ethereum": {
+      "rpc": [
+        "https://rpc.ankr.com/eth"
+      ],
+      "explorer": "https://etherscan.io/tx/",
+      "token": "ETH",
+      "chain_id": 1
+    },
+    "arbitrum": {
+      "rpc": [
+        "https://rpc.ankr.com/arbitrum"
+      ],
+      "explorer": "https://arbiscan.io/tx/",
+      "token": "ETH",
+      "chain_id": 42161
+    },
+    "optimism": {
+      "rpc": [
+        "https://rpc.ankr.com/optimism"
+      ],
+      "explorer": "https://optimistic.etherscan.io/tx/",
+      "token": "ETH",
+      "chain_id": 10
+    },
+    "polygon_zkevm": {
+      "rpc": [
+        "https://rpc.ankr.com/polygon_zkevm"
+      ],
+      "explorer": "https://zkevm.polygonscan.com/tx/",
+      "token": "ETH",
+      "chain_id": 1101
+    },
+    "zksync": {
+      "rpc": [
+        "https://rpc.ankr.com/zksync_era"
+      ],
+      "explorer": "https://explorer.zksync.io/tx/",
+      "token": "ETH",
+      "chain_id": 324
+    },
+    "base": {
+      "rpc": [
+        "https://rpc.ankr.com/base"
+      ],
+      "explorer": "https://basescan.org/tx/",
+      "token": "ETH",
+      "chain_id": 8453
+    },
+    "scroll": {
+      "rpc": [
+        "https://1rpc.io/scroll"
+      ],
+      "explorer": "https://scrollscan.com/tx/",
+      "token": "ETH",
+      "chain_id": 534352
+    },
+  "polygon": {
+      "rpc": [
+        "https://polygon-bor-rpc.publicnode.com"
+      ],
+      "explorer": "https://polygonscan.com/tx/",
+      "token": "ETH",
+      "chain_id": 137
+    },
+  "binance smart chain": {
+      "rpc": [
+        "https://bsc-rpc.publicnode.com"
+      ],
+      "explorer": "https://bscscan.com/tx/",
+      "token": "ETH",
+      "chain_id": 56
+    },
+  "manta pacific": {
+      "rpc": [
+        "https://1rpc.io/manta"
+      ],
+      "explorer": "https://manta.socialscan.io/tx/",
+      "token": "ETH",
+      "chain_id": 169
+    }
+}
+  
